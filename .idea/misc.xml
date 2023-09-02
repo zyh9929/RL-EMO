@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/run_train_q_learning_MELD.sh" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.9.16 (sftp://root@hz-t3.matpool.com:29824/root/miniconda3/envs/myconda/bin/python)" project-jdk-type="Python SDK" />
+</project>
